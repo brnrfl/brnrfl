@@ -45,19 +45,20 @@ Meu coração bate forte pelas corridas de rua. Não à toa, sou ultramaratonist
 
 ## 📂 Projetos em destaque
 
-<div align="center">
+| Projeto | Tecnologia |
+| --- | --- |
+| [final-project-HTML-DIO](https://github.com/brnrfl/final-project-HTML-DIO) | HTML |
+| [conhecendo-bootstrap](https://github.com/brnrfl/conhecendo-bootstrap) | Bootstrap |
+| [intro-dev-swift-DIO](https://github.com/brnrfl/intro-dev-swift-DIO) | Swift |
+| [trilha-css-desafio-04](https://github.com/brnrfl/trilha-css-desafio-04) | CSS |
 
-[![final-project-HTML-DIO](https://github-readme-stats.vercel.app/api/pin/?username=brnrfl&repo=final-project-HTML-DIO&theme=dark&hide_border=true)](https://github.com/brnrfl/final-project-HTML-DIO) [![conhecendo-bootstrap](https://github-readme-stats.vercel.app/api/pin/?username=brnrfl&repo=conhecendo-bootstrap&theme=dark&hide_border=true)](https://github.com/brnrfl/conhecendo-bootstrap)
-
-[![intro-dev-swift-DIO](https://github-readme-stats.vercel.app/api/pin/?username=brnrfl&repo=intro-dev-swift-DIO&theme=dark&hide_border=true)](https://github.com/brnrfl/intro-dev-swift-DIO) [![trilha-css-desafio-04](https://github-readme-stats.vercel.app/api/pin/?username=brnrfl&repo=trilha-css-desafio-04&theme=dark&hide_border=true)](https://github.com/brnrfl/trilha-css-desafio-04)
-
-</div>
+Veja todos os meus repositórios em [github.com/brnrfl](https://github.com/brnrfl?tab=repositories).
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![Estatísticas do GitHub de brnrfl](https://github-readme-stats.vercel.app/api?username=brnrfl&theme=dark&hide_border=true&show_icons=true&include_all_commits=true) ![Linguagens mais usadas por brnrfl](https://github-readme-stats.vercel.app/api/top-langs/?username=brnrfl&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=pie&hide_title=true)
+![Estatísticas do GitHub de brnrfl](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=brnrfl&theme=github_dark) ![Linguagens mais usadas por brnrfl](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brnrfl&theme=github_dark)
 
 </div>
 
