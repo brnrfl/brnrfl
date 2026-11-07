@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Arial&size=21&pause=1000&color=FFF&center=true&width=640&lines=Fala+DEV!+💻+Tudo+certinho?+😁;Bem-vindo+ao+meu+perfil!+👨🏻‍💻;Pode+ficar+à+vontade!+🫱🏼‍🫲🏼">
-  <img alt="Fala DEV! Tudo certinho? Bem-vindo ao meu perfil! Pode ficar à vontade!" src="https://readme-typing-svg.herokuapp.com?font=Arial&size=21&pause=1000&color=24292F&center=true&width=640&lines=Fala+DEV!+💻+Tudo+certinho?+😁;Bem-vindo+ao+meu+perfil!+👨🏻‍💻;Pode+ficar+à+vontade!+🫱🏼‍🫲🏼">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Arial&size=21&pause=1000&color=FFF&center=true&width=640&lines=Fala+DEV!+💻+Tudo+certinho?+😁;Bem-vindo+ao+meu+perfil!+👋;Pode+ficar+à+vontade!+🤝">
+  <img alt="Fala DEV! Tudo certinho? Bem-vindo ao meu perfil! Pode ficar à vontade!" src="https://readme-typing-svg.herokuapp.com?font=Arial&size=21&pause=1000&color=24292F&center=true&width=640&lines=Fala+DEV!+💻+Tudo+certinho?+😁;Bem-vindo+ao+meu+perfil!+👋;Pode+ficar+à+vontade!+🤝">
 </picture>
 
 </div>
@@ -21,7 +21,7 @@ Vamos juntos explorar novos horizontes na programação e além!
 - 🎨 **Front-end:** HTML, CSS e JavaScript.
 - 🐍 **Python:** automações e análise de dados.
 
-## 🏃🏽‍♂️ Fora dos códigos
+## 🏃 Fora dos códigos
 
 Meu coração bate forte pelas corridas de rua. Não à toa, sou ultramaratonista! Também amo fazer trilhas e pedalar em locais bucólicos, longe do burburinho das grandes cidades.
 
